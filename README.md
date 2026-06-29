@@ -7,6 +7,7 @@ This GitHub is the public front door for selected work from Ric's current invent
 ## Public focus
 
 - [Autonome](https://github.com/RicRicho/Autonome) — systems that accumulate judgment, not just knowledge.
+- [AI_Biosecurity](https://github.com/RicRicho/AI_Biosecurity) — systems that shape prompts and responses from AI modesl to reduce model bias.
 - [FaceIQ](https://github.com/RicRicho/faceiq) — patent-pending identity verification for proving the real human behind an online interaction.
 - [SafeGen Docs](https://github.com/RicRicho/safegen-docs) — privacy-preserving child-safety and age-assurance infrastructure.
 - [Deadbolt](https://github.com/RicRicho/deadbolt) — privacy-preserving proximity/contact-tracing technology overview.
